@@ -10,6 +10,6 @@ A weather widget application built with Next.js and Node.js.
 
 ```sh
 docker-compose up --build
-
+```
 
 4. Open http://localhost:3000 in the browser
